@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/%7Brox-flags-management%7D/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/%7Brox-flags-management%7D/static/js/main.caf3a101.chunk.js",
+    "main.js.map": "/%7Brox-flags-management%7D/static/js/main.caf3a101.chunk.js.map",
+    "runtime-main.js": "/%7Brox-flags-management%7D/static/js/runtime-main.4c58fc64.js",
+    "runtime-main.js.map": "/%7Brox-flags-management%7D/static/js/runtime-main.4c58fc64.js.map",
+    "static/js/2.da4151bd.chunk.js": "/%7Brox-flags-management%7D/static/js/2.da4151bd.chunk.js",
+    "static/js/2.da4151bd.chunk.js.map": "/%7Brox-flags-management%7D/static/js/2.da4151bd.chunk.js.map",
+    "static/js/3.1dc99e57.chunk.js": "/%7Brox-flags-management%7D/static/js/3.1dc99e57.chunk.js",
+    "static/js/3.1dc99e57.chunk.js.map": "/%7Brox-flags-management%7D/static/js/3.1dc99e57.chunk.js.map",
+    "index.html": "/%7Brox-flags-management%7D/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/%7Brox-flags-management%7D/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.da4151bd.chunk.js.LICENSE.txt": "/%7Brox-flags-management%7D/static/js/2.da4151bd.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/%7Brox-flags-management%7D/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c58fc64.js",
+    "static/js/2.da4151bd.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.caf3a101.chunk.js"
+  ]
+}
