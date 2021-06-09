@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/rox-flags-management/static/css/main.b3da73c8.chunk.css",
-    "main.js": "/rox-flags-management/static/js/main.103b01cd.chunk.js",
-    "main.js.map": "/rox-flags-management/static/js/main.103b01cd.chunk.js.map",
+    "main.js": "/rox-flags-management/static/js/main.049ddb53.chunk.js",
+    "main.js.map": "/rox-flags-management/static/js/main.049ddb53.chunk.js.map",
     "runtime-main.js": "/rox-flags-management/static/js/runtime-main.e2505969.js",
     "runtime-main.js.map": "/rox-flags-management/static/js/runtime-main.e2505969.js.map",
-    "static/js/2.f914eb76.chunk.js": "/rox-flags-management/static/js/2.f914eb76.chunk.js",
-    "static/js/2.f914eb76.chunk.js.map": "/rox-flags-management/static/js/2.f914eb76.chunk.js.map",
+    "static/js/2.7360c6f8.chunk.js": "/rox-flags-management/static/js/2.7360c6f8.chunk.js",
+    "static/js/2.7360c6f8.chunk.js.map": "/rox-flags-management/static/js/2.7360c6f8.chunk.js.map",
     "index.html": "/rox-flags-management/index.html",
     "static/css/main.b3da73c8.chunk.css.map": "/rox-flags-management/static/css/main.b3da73c8.chunk.css.map",
-    "static/js/2.f914eb76.chunk.js.LICENSE.txt": "/rox-flags-management/static/js/2.f914eb76.chunk.js.LICENSE.txt"
+    "static/js/2.7360c6f8.chunk.js.LICENSE.txt": "/rox-flags-management/static/js/2.7360c6f8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e2505969.js",
-    "static/js/2.f914eb76.chunk.js",
+    "static/js/2.7360c6f8.chunk.js",
     "static/css/main.b3da73c8.chunk.css",
-    "static/js/main.103b01cd.chunk.js"
+    "static/js/main.049ddb53.chunk.js"
   ]
 }
