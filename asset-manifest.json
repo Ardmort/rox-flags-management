@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/rox-flags-management/static/css/main.1e6f6322.chunk.css",
-    "main.js": "/rox-flags-management/static/js/main.2a8c5a12.chunk.js",
-    "main.js.map": "/rox-flags-management/static/js/main.2a8c5a12.chunk.js.map",
+    "main.js": "/rox-flags-management/static/js/main.72544398.chunk.js",
+    "main.js.map": "/rox-flags-management/static/js/main.72544398.chunk.js.map",
     "runtime-main.js": "/rox-flags-management/static/js/runtime-main.e2505969.js",
     "runtime-main.js.map": "/rox-flags-management/static/js/runtime-main.e2505969.js.map",
     "static/js/2.f914eb76.chunk.js": "/rox-flags-management/static/js/2.f914eb76.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.e2505969.js",
     "static/js/2.f914eb76.chunk.js",
     "static/css/main.1e6f6322.chunk.css",
-    "static/js/main.2a8c5a12.chunk.js"
+    "static/js/main.72544398.chunk.js"
   ]
 }
