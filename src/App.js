@@ -1,6 +1,8 @@
 import "./App.css";
 import {useState} from "react";
 
+const data = [{name: 'first'}, {name: 'first'}, {name: 'first'}, {name: 'first'}, {name: 'first'}, ]
+
 function App() {
     const [auth, setAuth] = useState("");
     const [applicationId, setApplicationId] = useState("");
@@ -18,7 +20,7 @@ function App() {
                 },
             }
         ).then((res) => {
-            setAllFlags(res);
+            setAllFlags([...res]);
         }).catch((err) => {
                 console.log(err)
             }
