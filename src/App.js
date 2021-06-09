@@ -1,7 +1,7 @@
 import "./App.css";
 import {useState} from "react";
 
-const data = [{name: 'first'}, {name: 'first'}, {name: 'first'}, {name: 'first'}, {name: 'first'}, ]
+const data = [{name: 'first'}, {name: 'first'}, {name: 'first'}, {name: 'first'}, {name: 'first'},]
 
 function App() {
     const [auth, setAuth] = useState("");
@@ -19,8 +19,8 @@ function App() {
                     authorization: `Bearer ${auth}`,
                 },
             }
-        ).then((res) => {
-            setAllFlags([...res]);
+        ).then((res) => res.json()).then((res) => {
+            setAllFlags(res);
         }).catch((err) => {
                 console.log(err)
             }
@@ -50,7 +50,7 @@ function App() {
                         authorization: `Bearer ${auth}`,
                     },
                 }
-            ).then((res) => {
+            ).then((res) => res.json()).then((res) => {
                 setAllFlags(res);
             });
         }
@@ -74,7 +74,7 @@ function App() {
                         authorization: `Bearer ${auth}`,
                     },
                 }
-            ).then((res) => {
+            ).then((res) => res.json()).then((res) => {
                 setAllFlags(res);
             });
         }).catch(err => {
