@@ -30,7 +30,7 @@ function App() {
       fetch(`https://x-api.rollout.io/public-api/applications/${applicationId}/flags/${flag.name}`, {
         method: "DELETE",
         headers: {
-          authorization: auth,
+          authorization: `Bearer ${auth}`,
         },
       }).then(() => {
         console.log(`flag ${flag.name} removed`)})
@@ -42,7 +42,7 @@ function App() {
           method: "GET",
           headers: {
             accept: "application/json",
-            authorization: auth,
+            authorization: `Bearer ${auth}`,
           },
         }
     ).then((res) => {
