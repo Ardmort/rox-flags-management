@@ -2,7 +2,7 @@
   "name": "rox-flags-management",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://{Ardmort}.github.io/{rox-flags-management}",
+  "homepage": "http://Ardmort.github.io/rox-flags-management",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",

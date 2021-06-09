@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.getFlags {
+  display: flex;
+  flex-direction: column;
+}
+
+.showAllButton {
+  width: 300px;
+}
+
+span {
+  margin-left: 15px;
+}
+
+label {
+  margin-bottom: 7px;
+}
+
+button {
+  margin-bottom: 7px;
+}
