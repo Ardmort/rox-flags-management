@@ -14,7 +14,7 @@ function App() {
         method: "GET",
         headers: {
           accept: "application/json",
-          authorization: auth,
+          authorization: `Bearer ${auth}`,
         },
       }
     ).then((res) => {
