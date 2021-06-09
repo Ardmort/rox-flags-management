@@ -57,3 +57,18 @@ label {
 button {
   margin-bottom: 7px;
 }
+
+.flags {
+  margin: 10px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.flagGroup {
+  display: flex;
+}
+
+.flag {
+  margin-right: 7px;
+}
